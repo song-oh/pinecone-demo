@@ -1,0 +1,8 @@
+streamlit
+pinecone-client
+transformers
+torch
+Pillow
+scikit-learn
+matplotlib
+openai
